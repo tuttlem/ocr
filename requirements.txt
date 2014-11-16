@@ -1,0 +1,12 @@
+Pyste==0.9.10
+SOAPpy==0.12.0
+argparse==1.2.1
+chardet==2.0.1
+fpconst==0.7.2
+pdfminer==20110515
+python-apt==0.8.8.2
+python-debian==0.1.21
+python-debianbts==1.11
+reportbug==6.4.4
+virtualenv==1.11.6
+wsgiref==0.1.2
